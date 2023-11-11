@@ -9,14 +9,14 @@
     import AppHeader from './AppHeader.vue';
     import RandomNumber from './RandomNumber.vue';
     import LoginForm from './LoginForm.vue';
-    import MessageDisplay from './MessageDisplay.vue';
+    import MessageContainer from './MessageContainer.vue';
 
     export default {
         components: {
             AppHeader,
             RandomNumber,
             LoginForm,
-            MessageDisplay,
+            MessageContainer,
         },
     };
 </script>
