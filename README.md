@@ -1,7 +1,12 @@
-# Vue 3 + Vite
+# Demo: Vue3 + Jest
+**Uses:** Vite, Vue3, Axios, Jest
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Code Excerpts
+Examples of tests:
+https://github.com/ginazampino/demo-vue-jest/blob/d9650830806eca58d7d8465e6310f6672c758d74/src/tests/AppHeader.spec.js#L5
+https://github.com/ginazampino/demo-vue-jest/blob/d9650830806eca58d7d8465e6310f6672c758d74/src/tests/MessageDisplay.spec.js#L28
 
-## Recommended IDE Setup
+Examples of Vue3 conditional rendering:
+https://github.com/ginazampino/demo-vue-jest/blob/d9650830806eca58d7d8465e6310f6672c758d74/src/components/MessageDisplay.vue#L3
+https://github.com/ginazampino/demo-vue-jest/blob/d9650830806eca58d7d8465e6310f6672c758d74/src/components/MessageDisplay.vue#L4
 
--   [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
